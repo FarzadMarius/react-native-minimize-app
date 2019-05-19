@@ -42,7 +42,7 @@ react-native link react-native-minimize
     ...
 ```
 
-##Tags
+## Tags
 
 * React Native
 * Java Script
