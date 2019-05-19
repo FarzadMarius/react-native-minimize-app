@@ -1,6 +1,6 @@
 {
   "name": "react-native-minimize",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Minimize app for React Native on Android And iOS.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,8 @@
     "minimize",
     "background",
     "close",
-    "android"
+    "android",
+    "ios"
   ],
   "author": "Farzad Zare",
   "license": "Farzad Marius",

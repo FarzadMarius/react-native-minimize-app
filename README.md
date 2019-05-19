@@ -10,6 +10,11 @@ react-native link react-native-minimize
 
 ### Manual Installation
 
+#### iOS
+* Add RNMinimizeApp.xcoderproj into your project in the Libraries folder.
+* Add the .a file on the General tab of your target under Linked Frameworks And Libraries
+* Add the .a file on the Build Phases tab of your target under Link Binary With Libraries 
+#### Android
 * In the settings.gradle
   ```	
      include ':react-native-minimize-app', ':app'
@@ -48,6 +53,10 @@ react-native link react-native-minimize
 * Java Script
 * NodeJs
 * Minimize
+* iOS
 * Android
 * Hide
 * Background
+
+
+#farzad.zare@live.com
