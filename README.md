@@ -21,5 +21,33 @@ react-native link react-native-minimize
   ```
 * In MainApplication.java
   ```
+    import com.farzadmarius.rnminimizeapp.RNMinimizeAppPackage;
+    ...
+    @Override
+      protected List<ReactPackage> getPackages() {
+        return Arrays.<ReactPackage>asList(
+          ...
+          new RNExitAppPackage()
+          ...
+        );
+      }
+    ...
   ```
-		 
+  
+## Usage		
+```javascript
+    import RNMinimizeApp from 'react-native-minimize';
+    ...
+    RNMinimizeApp.minimizeApp();
+    ...
+```
+
+##Tags
+
+* React Native
+* Java Script
+* NodeJs
+* Minimize
+* Android
+* Hide
+* Background
