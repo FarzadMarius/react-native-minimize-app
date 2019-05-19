@@ -1,7 +1,7 @@
 {
   "name": "react-native-minimize",
-  "version": "1.0.9",
-  "description": "Minimize app for React Native on Android Only.",
+  "version": "1.0.10",
+  "description": "Minimize app for React Native on Android And iOS.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
