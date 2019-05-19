@@ -58,5 +58,5 @@ react-native link react-native-minimize
 * Hide
 * Background
 
-
-#farzad.zare@live.com
+## Support
+* farzad.zare@live.com
