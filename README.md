@@ -27,7 +27,7 @@ react-native link react-native-minimize
       protected List<ReactPackage> getPackages() {
         return Arrays.<ReactPackage>asList(
           ...
-          new RNExitAppPackage()
+          new RNMinimizeAppPackage()
           ...
         );
       }
