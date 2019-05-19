@@ -1,5 +1,5 @@
 # react-native-minimize
-Minimize app for React Native on Android Only.
+Minimize app for React Native on Android And iOS.
 
 ## Installation
 
