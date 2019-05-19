@@ -1,23 +1,26 @@
 {
   "name": "react-native-minimize",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "description": "Minimize app for React Native on Android Only.",
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "react": "16.8.3",
-    "react-native": "0.59.8"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FarzadMarius/react-native-minimize-app"
   },
-  "devDependencies": {
-    "@babel/core": "7.4.4",
-    "@babel/runtime": "7.4.4",
-    "babel-jest": "24.8.0",
-    "jest": "24.8.0",
-    "metro-react-native-babel-preset": "0.54.1",
-    "react-test-renderer": "16.8.3"
+  "keywords": [
+    "react",
+    "native",
+    "minimize",
+    "background",
+    "close",
+    "android"
+  ],
+  "author": "Farzad Zare",
+  "license": "Farzad Marius",
+  "bugs": {
+    "url": "https://github.com/FarzadMarius/react-native-minimize-app/issues"
   },
-  "jest": {
-    "preset": "react-native"
-  }
+  "homepage": "https://www.instagram.com/farzad_zare"
 }
