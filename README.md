@@ -1,0 +1,1 @@
+# react-native-minimize-app
