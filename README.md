@@ -1,11 +1,11 @@
-# react-native-minimize-app
+# react-native-minimize
 Minimize app for React Native on Android Only.
 
 ## Installation
 
 ```bash
-npm i react-native-minimize-app --save
-react-native link react-native-minimize-app 
+npm i react-native-minimize --save
+react-native link react-native-minimize
 ```
 
 ### Manual Installation
