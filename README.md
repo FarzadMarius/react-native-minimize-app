@@ -1,6 +1,8 @@
 # react-native-minimize
 Minimize app for React Native on Android And iOS.
 
+![demo](https://github.com/FarzadMarius/react-native-minimize-app/blob/master/HideApp.gif)
+
 ## Installation
 
 ```bash
